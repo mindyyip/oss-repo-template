@@ -16,11 +16,15 @@ After running the CMake tests, there were no errors.
 
 ![dashboard](dashboardtests.PNG)
 
+It is the submission from 13 minutes ago.
+
 ## Checkpoint 3
 
 ### Submission with Errors
 
 ![Submission with Errors](failedtest.PNG)
+
+It is the submission from 4 minutes ago.
 
 ### Error Message
 
@@ -31,6 +35,8 @@ The error message had to do with the copyright because the years were not correc
 ### Fixed Error Submission
 
 ![Fixed Submission](success2.PNG)
+
+The fixed submission is the submission labeled as 3 minutes ago.
 
 
 ## Checkpoint 4
